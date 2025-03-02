@@ -1,5 +1,7 @@
 # Mushroom Classification
 
+- [Project](./project.ipynb)
+
 ## Local Setup
 
 ```sh
